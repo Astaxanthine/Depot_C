@@ -1,0 +1,1 @@
+C++ permet de définir des conversion d'un type de classe vers un autre type de classe ou un type de base. On parle de conversion définies par l'utilisateur (CDU). Ces conversion peuvent alors éventuellement être mise en oeuvre de façon implicite par le compilateur, afin de donner une signification à un appel de fonction ou un opérateur.
